@@ -9,5 +9,7 @@
 * list item 2
 
 *italic* , **bold** , ***italicbold***
+
 [Google için tıklayınız:](https://www.google.com.tr/)
+
 ![MANZARA](https://arbagdizayn.com/wp-content/uploads/2020/01/manzara-poster-gorselleri-769.jpg) 
